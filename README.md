@@ -1,2 +1,3 @@
-# culturize-groeningemuseum
-CultURIze server config files for Groeningemuseum.
+# CultURIze-based PURLs for the Groeningemuseum
+Nginx server configuration files from CultURIze.
+
